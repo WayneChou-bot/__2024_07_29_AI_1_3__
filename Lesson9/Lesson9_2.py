@@ -4,6 +4,7 @@ class BMI():
         self.height = height
         self.weight = weight
     
+    # property 大部份可讀取，不可寫入
     @property
     def name(self)->str:
         return self.__name
