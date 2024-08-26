@@ -1,6 +1,7 @@
 #計算完成後,問使用者還要繼續('q':離開,enter:繼續)嗎?
 
-import tools
+from widget import tools
+
 while True:
     try:
         name = input("請輸入姓名: ")
