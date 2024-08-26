@@ -1,0 +1,4 @@
+# 將 requirements.txt 中所有套件一次安裝指令如下一行
+# pip install -r requirements.txt
+pyinputplus
+requests
