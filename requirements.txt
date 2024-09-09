@@ -3,3 +3,4 @@
 pyinputplus
 requests
 pydantic
+matplotlib
