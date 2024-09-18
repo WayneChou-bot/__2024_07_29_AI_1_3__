@@ -1,5 +1,6 @@
 # 將 requirements.txt 中所有套件一次安裝，指令如下一行
 # pip install -r requirements.txt
+# git push --force (這是強制以我這為主的指令，發生上傳或下載衝突時，可用)
 pyinputplus
 requests
 pydantic
