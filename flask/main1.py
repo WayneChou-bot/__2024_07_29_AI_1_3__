@@ -8,3 +8,4 @@ def hello_world():
 
 # 開發環境的指令 flask --app main1 run --debug
 # run 正式產品的時候 gunicron main1:app
+# ctrl + c 是停止伺服器運作
