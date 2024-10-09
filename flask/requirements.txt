@@ -2,5 +2,7 @@
 # pip install -r requirements.txt
 # 注意事項 [notice] To update, run: pip install --upgrade pip
 # git push --force (這是強制以我這為主的指令，發生上傳或下載衝突時，可用)
+# 安裝了 wsgi server 及 wsgi application
 
 Flask
+gunicorn
