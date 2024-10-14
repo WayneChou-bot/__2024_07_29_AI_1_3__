@@ -7,3 +7,5 @@ python-dotenv
 Flask
 gunicorn
 google-generativeai
+line-bot-sdk
+requests
