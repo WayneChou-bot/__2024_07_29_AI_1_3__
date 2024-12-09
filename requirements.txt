@@ -12,3 +12,6 @@ openpyxl
 pandas-datareader
 yfinance
 pillow
+streamlit
+scikit-learn
+seaborn
